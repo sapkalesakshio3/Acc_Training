@@ -1,0 +1,13 @@
+roll no    name                                          photo    resume
+111            sankpal pratap kandiba 		y	y  
+112           sapkale sakshi tushar		y	y
+113           sarvankar samrudhi 		y	y
+114           sawant akash				y	y
+115           sharma ajay				job 
+116           shelar surabh				y	y
+117           shetty lakhan				y	y
+118           shewale harshali			y	y
+119           shinde kunal 				y	y
+120          shinde vishal 				n	n
+
+ https://bit.ly/DSAbyApnaCollege
